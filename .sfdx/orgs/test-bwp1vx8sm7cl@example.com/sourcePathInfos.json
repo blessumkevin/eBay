@@ -1,0 +1,242 @@
+[
+    [
+        "/app/dxProject/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1576443995477,
+            "changeTime": 1576443995477,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1576443995477,
+            "changeTime": 1576443995477,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1576443995577,
+            "changeTime": 1576443995577,
+            "contentHash": "2fd123cb7ce0da934ed83877a6e5a674f58addaa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1576443995477,
+            "changeTime": 1576443995477,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main/default/lwc",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1576443995477,
+            "changeTime": 1576443995477,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/Bicycle_Components",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/Bicycle_Components",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1576443997101,
+            "changeTime": 1576443997161,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/app/dxProject/Bicycle_Components/main",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/Bicycle_Components/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1576443997101,
+            "changeTime": 1576443997101,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/Bicycle_Components/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/Bicycle_Components/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1576443997101,
+            "changeTime": 1576443997101,
+            "contentHash": "4015a9474a8f4a60ac7a46165910ca2c23a9bb72",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/Bicycle_Components/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/Bicycle_Components/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1576443997101,
+            "changeTime": 1576443997101,
+            "contentHash": "660e83bc7cec682855f9be0ecb3520c9184b6c79",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/Bicycle_Components/main/default/layouts/Bicycle__c-Bicycle Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/Bicycle_Components/main/default/layouts/Bicycle__c-Bicycle Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2081,
+            "modifiedTime": 1576443997101,
+            "changeTime": 1576443997101,
+            "contentHash": "43672e4fe20a59856ed590bcf2ab8f5dceef519a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/Bicycle_Components/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/Bicycle_Components/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1576443997101,
+            "changeTime": 1576443997101,
+            "contentHash": "ca022c17b6bef897fe6650b0fa89f605b3c8b356",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/Bicycle_Components/main/default/objects/Bicycle__c",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/Bicycle_Components/main/default/objects/Bicycle__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1576443997101,
+            "changeTime": 1576443997101,
+            "contentHash": "93ddc9d8c994462225e844801421ce36d315d136",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/Bicycle_Components/main/default/objects/Bicycle__c/Bicycle__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/Bicycle_Components/main/default/objects/Bicycle__c/Bicycle__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5106,
+            "modifiedTime": 1576443997101,
+            "changeTime": 1576443997101,
+            "contentHash": "70ef569cda9aeae5d5138f5220dbf6679fa4e4fa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/Bicycle_Components/main/default/objects/Bicycle__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/Bicycle_Components/main/default/objects/Bicycle__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1576443997101,
+            "changeTime": 1576443997101,
+            "contentHash": "7c6df1421c1cf42718aa2c56b1385a66786a6511",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/Bicycle_Components/main/default/objects/Bicycle__c/fields/Type__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/Bicycle_Components/main/default/objects/Bicycle__c/fields/Type__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1119,
+            "modifiedTime": 1576443997101,
+            "changeTime": 1576443997101,
+            "contentHash": "f558da203d207a8e26b9310098fc3e01178b3a8e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1576443998305,
+            "changeTime": 1576443998305,
+            "contentHash": "efc714b990625c0feb5291f5258202041ac1ba0a",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

@@ -9,12 +9,14 @@ public class AccountOperations {
        //New methods introduced by Developer 1 working on the US-003
     public static Account setDefaultBillingAddress(Account a){
         a.billingstreet = 'Po Castellana, 77 5th floor'; // DEV 1 updates
+
         a.billingstate = 'Madrid';
         a.billingpostalcode ='28046'; // DEV 2 updates
         return a;
     }
     public static Account setDefaultShippingAddress(Account a){
         a.shippingstreet = 'Po Castellana, 77 5th floor'; // DEV 1 updates
+
         a.shippingstate = 'Madrid';
         a.shippingpostalcode ='28046'; // DEV 2 updates
         return a;
@@ -25,6 +27,7 @@ public class AccountOperations {
     }
     public static Account setDefaultURL(Account a) { //DEV 1
         a.website = 'www.copado-enterprise.com'; // DEV 1 updates
+
         return a;
     }
 }
